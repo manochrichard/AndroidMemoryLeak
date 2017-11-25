@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "681061153422",
+    "firebase_url": "https://messagenotification-73dca.firebaseio.com",
+    "project_id": "messagenotification-73dca",
+    "storage_bucket": "messagenotification-73dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681061153422:android:731a5fb312b62df3",
+        "android_client_info": {
+          "package_name": "manoch.labs.android.amararaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681061153422-7dj9d5lqh8nan1m7aei88gfo2p5icggq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJw9gIiQqDoR_hFpyk-G5CIKSn0OEvF3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
